@@ -1,0 +1,24 @@
+{
+  "string": [
+    { "name": "module_desc", "value": "P2P Voice Talkie for Wearables" },
+    { "name": "EntryAbility_desc", "value": "P2P Voice Talkie" },
+    { "name": "EntryAbility_label", "value": "P2P Talk" },
+    { "name": "app_title", "value": "P2PVoiceCall" },
+    { "name": "label_my_ip", "value": "My IP: %s" },
+    { "name": "btn_become_host", "value": "BECOME HOST" },
+    { "name": "btn_join_call", "value": "JOIN CALL" },
+    { "name": "btn_cancel", "value": "CANCEL" },
+    { "name": "btn_end_call", "value": "END CALL" },
+    { "name": "placeholder_ip", "value": "Host IP Address" },
+    { "name": "placeholder_port", "value": "Port" },
+    { "name": "status_ready", "value": "Ready" },
+    { "name": "status_hosting", "value": "Hosting on %d..." },
+    { "name": "status_connecting", "value": "Connecting..." },
+    { "name": "status_waiting", "value": "Waiting for Client..." },
+    { "name": "status_connected", "value": "CONNECTED" },
+    { "name": "msg_invalid_ip", "value": "Invalid Host IP" },
+    { "name": "msg_net_error", "value": "Network Error: %s" },
+    { "name": "msg_disconnected", "value": "Peer Disconnected" },
+    { "name": "ip_address", "value": "Please enter default ip address" }
+  ]
+}
